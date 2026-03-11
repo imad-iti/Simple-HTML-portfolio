@@ -1,6 +1,6 @@
 # Imad Portfolio – Personal Profile Page
 
-This repository contains my **personal project for learning web development** from DevUp Club.
+This repository contains my personal project for learning **web development** from **DevUp Club**.
 
 ## What does the project include?
 
